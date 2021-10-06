@@ -1,4 +1,4 @@
-# Airflow-ETL-Orchestration (Files will be added soon)
+# Airflow-ETL-Orchestration
 This project shows how ETL pipelines can be created with Airflow DAGs
 
 The project makes use of four custom plugins:
